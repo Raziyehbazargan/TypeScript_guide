@@ -41,11 +41,11 @@ var things: any[] = [];        //with type of any we can save any type of data i
 
 //----------Type : Enum------------------------------
 enum orderStatus {complete,pending,declined};
-var n:orderStatus;   
+var xy:orderStatus;   
 
-	n = orderStatus.complete;
-	n = orderStatus.pending;
-	n = orderStatus.declined;
+	xy = orderStatus.complete;
+	xy = orderStatus.pending;
+	xy = orderStatus.declined;
 // n = "text";   // it'll cause  an error
 
 
