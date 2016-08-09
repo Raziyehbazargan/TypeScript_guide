@@ -41,3 +41,13 @@ it will create a javascript file.
 - to determine compile a file to which version of javascript: ```tsc  filename.ts  --target  es5```
 
 ---
+
+## Types :
+
+- Number
+- String
+- Boolean : true, false, undefined and null.
+- Array
+- Enum    : is a collection of strings
+- Void    :Absence of any type, mutly used for function return signatures
+- Any     : can be anything (Not recommended)
