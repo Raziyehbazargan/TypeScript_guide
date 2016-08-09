@@ -1,6 +1,6 @@
 # TypeScript_guide
 - Install 
-- Types
+- [Types](./types.ts)
 - Interfaces
 - Classes
 - Modules
