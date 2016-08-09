@@ -25,12 +25,12 @@
 
 - Mac: recommend using  [Homebrew](http://brew.sh/) to install Node. using [Homebrew](http://brew.sh/) to install node on Mac, will ensure that Node is install with the correct permissions. Common Node errors on Mac, are often because of Node didn't install using [Homebrew](http://brew.sh/).
 
-2- Install **typeScript** :
-- PC: npm install -g typescript
-- Mac: sudo npm install -g typescript 
+2- Install **TypeScript** :
+- PC: ```npm install -g typescript```
+- Mac: ```sudo npm install -g typescript``` 
 
 ###### TypeScript Compiler:
-- After install in terminal type: ```**tsc**``` 
+- After install in terminal type: ```tsc``` 
 it will show typescript compiler list arguments.
 
 - for compile a typescript file : ```tsc  filename.ts```
