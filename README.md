@@ -64,12 +64,12 @@ it will create a javascript file.
 
 
 **we have diffrent interfaces:**
-> [Object Interface](./interfaces/object-Interface.ts)
-> [Function Interface](./interfaces/object-function.ts)
-> [Array Interface](./interfaces/array-Interface.ts)
-> [Class Interface](./interfaces/class-Interface.ts)
-> [Extending Interfaces](./interfaces/extending-Interface.ts)
-> [Hybrid Interfaces](./interfaces/extending-Interface.ts)
+> - [Object Interface](./interfaces/object-Interface.ts)
+> - [Function Interface](./interfaces/object-function.ts)
+> - [Array Interface](./interfaces/array-Interface.ts)
+> - [Class Interface](./interfaces/class-Interface.ts)
+> - [Extending Interfaces](./interfaces/extending-Interface.ts)
+> - [Hybrid Interfaces](./interfaces/extending-Interface.ts)
 
 
 ---
