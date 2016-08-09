@@ -19,7 +19,25 @@
 
 ## Installation
 
->PC: [https://nodejs.org/](https://nodejs.org/)
+1- Install **Node.js** :
 
->Mac: recommend using  [Homebrew](http://brew.sh/) to install Node. using [Homebrew](http://brew.sh/) to install node on Mac, will ensure that Node is install with the correct permissions. Common Node errors on Mac, are often because of Node didn't install using [Homebrew](http://brew.sh/).
+- PC: [https://nodejs.org/](https://nodejs.org/)
 
+- Mac: recommend using  [Homebrew](http://brew.sh/) to install Node. using [Homebrew](http://brew.sh/) to install node on Mac, will ensure that Node is install with the correct permissions. Common Node errors on Mac, are often because of Node didn't install using [Homebrew](http://brew.sh/).
+
+2- Install **typeScript** :
+- PC: npm install -g typescript
+- Mac: sudo npm install -g typescript 
+
+#### TypeScript Compiler:
+- After install in terminal type: **tsc** 
+it will show typescript compiler list arguments.
+
+- for compile a typescript file : tsc  filename.ts
+it will create a javascript file.
+
+- compile multiple file in one file : ts  file1.ts file2.ts --out  mainfile.js
+
+- to determine compile a file to which version of javascript: tsc  filename.ts  --target  es5
+
+---
