@@ -29,15 +29,15 @@
 - PC: npm install -g typescript
 - Mac: sudo npm install -g typescript 
 
-#### TypeScript Compiler:
-- After install in terminal type: **tsc** 
+###### TypeScript Compiler:
+- After install in terminal type: ```**tsc**``` 
 it will show typescript compiler list arguments.
 
-- for compile a typescript file : tsc  filename.ts
+- for compile a typescript file : ```tsc  filename.ts```
 it will create a javascript file.
 
-- compile multiple file in one file : ts  file1.ts file2.ts --out  mainfile.js
+- compile multiple file in one file : ```tsc  file1.ts file2.ts --out  mainfile.js```
 
-- to determine compile a file to which version of javascript: tsc  filename.ts  --target  es5
+- to determine compile a file to which version of javascript: ```tsc  filename.ts  --target  es5```
 
 ---
