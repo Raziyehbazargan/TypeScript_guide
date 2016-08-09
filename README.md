@@ -19,5 +19,7 @@
 
 ## Installation
 
-[http://brew.sh/](http://brew.sh/)
-[https://nodejs.org/](https://nodejs.org/)
+>PC: [https://nodejs.org/](https://nodejs.org/)
+
+>Mac: recommend using  [Homebrew](http://brew.sh/) to install Node. using [Homebrew](http://brew.sh/) to install node on Mac, will ensure that Node is install with the correct permissions. Common Node errors on Mac, are often because of Node didn't install using [Homebrew](http://brew.sh/).
+
