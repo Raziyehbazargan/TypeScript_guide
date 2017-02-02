@@ -65,7 +65,7 @@ it will create a javascript file.
 
 **we have diffrent interfaces:**
 > - [Object Interface](Interfaces/object-Interface.ts)
-> - [Function Interface](Interfaces/function-function.ts)
+> - [Function Interface](Interfaces/function-Interface.ts)
 > - [Array Interface](Interfaces/array-Interface.ts)
 > - [Class Interface](Interfaces/class-Interface.ts)
 > - [Extending Interfaces](Interfaces/extending-Interface.ts)
@@ -73,3 +73,13 @@ it will create a javascript file.
 
 
 ---
+
+## Classes : 
+- Classes are object blueprints.
+- Familiar to programmers coming from C# or Java.
+- Similar to ES6 classes.
+- Each instance of a class has its own unique properties.
+- similar to interfaces, They define certain expected functionality for aobject.
+- One class => One / Many objects.
+
+> - [Object Interface](Interfaces/object-Interface.ts)

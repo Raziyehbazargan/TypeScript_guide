@@ -12,7 +12,7 @@ interface Musician extends Person{
 var ginger = <Musician>{};
 
 
-interface Game{
+interface Game {
 	name: string;
 	color:string;
 }
