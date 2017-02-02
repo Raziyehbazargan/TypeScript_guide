@@ -82,4 +82,6 @@ it will create a javascript file.
 - similar to interfaces, They define certain expected functionality for aobject.
 - One class => One / Many objects.
 
-> - [Object Interface](Interfaces/object-Interface.ts)
+> - [class-definition](Classes/class-definition.ts)
+> - [class-inheritance](Classes/class-inheritance.ts)
+

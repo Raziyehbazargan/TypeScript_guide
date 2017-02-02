@@ -26,7 +26,7 @@ class RaceHorse extends Horse {
     console.log(this.name + " am running really fast!");
   }
 }
-
+ 
 class ChampionsRaceHorse extends RaceHorse {
   race() {
     super.race();
